@@ -1,0 +1,66 @@
+.vp-container {
+    width: 600px;
+}
+.vp-containt {
+    font-size: 20px;
+    margin: 0 60px;
+}
+header {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+header .vp-logo {
+    margin-bottom: 50px;
+}
+header ul {
+    display: block;
+    margin-top: 30px;
+    width: 100%;
+}
+header ul li {
+    width: 100%;
+    border-bottom: 1px solid #ffffff;
+    margin-bottom: 40px;
+}
+/* offer */
+.offer {
+    height: auto;
+    margin: auto;
+}
+.offer .containner ul {
+    display: block;
+}
+.offer .containner ul li {
+    margin-bottom: 30px;
+}
+/* who */
+.whoo {
+    display: block;
+}
+.whoo .whoo-img ,.whoo-text {
+    width: 100%;
+}
+.whoo .whoo-text {
+    width: 100%;
+    height: 500px;
+}
+/* comment */
+.comment {
+    height: auto;
+    margin-top: 400px;
+}
+.comment .comment-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+/* contact */
+.contact-all {
+    text-align: center;
+}
+.contact-all form {
+    margin: 30px;
+}
